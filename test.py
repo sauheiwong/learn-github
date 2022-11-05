@@ -1,2 +1,2 @@
-for i in range(10**4):
+for i in range(10**6):
     print(i)
